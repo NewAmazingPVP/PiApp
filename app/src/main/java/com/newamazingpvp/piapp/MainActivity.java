@@ -21,7 +21,7 @@ import java.net.Socket;
 public class MainActivity extends AppCompatActivity {
 
     private static final String SERVER_IP_OFF = "192.168.1.157";
-    private static final String SERVER_IP_ON = "192.168.1.156";
+    private static final String SERVER_IP_ON = "192.168.1.152";
     private static final int SERVER_PORT_OFF = 10001;
     private static final int SERVER_PORT_ON = 10003;
 
